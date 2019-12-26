@@ -1,0 +1,18 @@
+superuser
+plt
+kabid
+
+opd
+all
+kecamatan
+
+plt - all
+
+kabid - kasie
+
+input nip semua muncul
+
+input nip atasan langsung
+input nip sendiri
+
+
